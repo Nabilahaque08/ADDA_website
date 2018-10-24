@@ -1,0 +1,43 @@
+h1{
+	font-size: 200px;
+	text-align: center;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 20px;
+	padding: 10px;
+	font-size: 24px;
+	font-family: sans-serif;
+	background color: #d8d8d8;
+	color: #12008c;
+	text-align: center;
+
+
+}
+
+
+nav li {
+	display: inline;
+	border: 1px solid black;
+	padding: 20px;
+	background-color: yellow;
+}
+
+
+nav a {
+	background-color: #12008c;
+	text-decoration: none;
+
+}
+
+nav a:visited {
+	color: #9e9e9e;
+}
+
+nav li:hover {
+	background-color: #c4c4c4;
+}
+
+
